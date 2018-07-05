@@ -21,7 +21,7 @@ League of legends  match lineup query System，《英雄联盟》5V5比赛阵容
     手速
     心率
     感情状态
-    版本
+    版本1
     过往胜率
     赛场平分
     等等参数才能帮助1
