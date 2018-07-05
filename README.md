@@ -24,5 +24,5 @@ League of legends  match lineup query System，《英雄联盟》5V5比赛阵容
     版本
     过往胜率
     赛场平分
-    等等参数才能帮助
+    等等参数才能帮助1
     但是以上数据怎么整和，我很茫然。
